@@ -7,6 +7,5 @@
 </head>
 <body>
     <p> file index </p>
-    <p> prova </p>
 </body>
 </html>
